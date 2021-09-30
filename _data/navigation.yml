@@ -1,14 +1,22 @@
-- title: About
-  url: /about/
-- title: Years
-  url: /years/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: More
-  sublinks:
-    - title: FAQ
-      url: /faq/
-    - title: Docs
-      url: /docs/
+- title: Home
+  url: /
+
+- title: Publications
+  url: /publications/
+
+- title: Talks
+  url: /talks/
+
+- title: Awards
+  url: /awards/
+
+- title: Teaching
+  url: /teaching/
+
+
+# - title: More
+#   sublinks:
+#     - title: Awards
+#       url: /awards/
+#     - title: Teaching
+#       url: /teaching/

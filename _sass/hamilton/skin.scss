@@ -6,14 +6,17 @@ body {
 }
 
 a {
-  color: $link-base-color;
+  color: #5A30FF;
+  padding:0;
+  
+  
 
   &:visited {
-    color: $link-visited-color;
+    color: #5A30FF;
   }
 
   &:hover {
-    color: $text-color;
+    color: #5A30FF;
   }
 }
 
@@ -63,13 +66,13 @@ table {
 ///////// Layout ///////////
 
 .site-header {
-  background-color: $background-color;
+  background-color: #dddae6;
   border-top-color: $border-color-dark;
-  border-bottom-color: $border-color-light;
+  border-bottom-color: $border-color-dark;
 }
 
 .site-sidebar {
-  border-color: $border-color-light;
+  border-color: $border-color-dark;
 }
 
 .site-title {
@@ -81,7 +84,7 @@ table {
 }
 
 .site-nav {
-  background-color: $background-color;
+  background-color:  #dddae6;
   border-color: $border-color;
 
   .menu-icon {

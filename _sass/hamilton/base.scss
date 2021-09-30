@@ -23,8 +23,12 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure, iframe,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit;
+  margin-bottom: $spacing-unit/2;
+ 
+  
 }
+  
+  
 
 /**
  * Basic styling
@@ -41,7 +45,9 @@ body {
   min-height: 100vh;
   flex-direction: column;
   overflow-wrap: break-word;
+ 
   line-height: $base-line-height;
+  
 }
 
 p {
@@ -190,15 +196,19 @@ ul.task-list {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit}));
-  margin-right: auto;
-  margin-left: auto;
+  //max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  margin-right: 0;
+  margin-left: 0;
   padding-right: $spacing-unit / 2;
   padding-left: $spacing-unit / 2;
+  margin-top: 0;
+  
+  
 
   @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    //max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    
+    margin-right:0;
+    margin-left:0;
   }
 }

@@ -1,6 +1,21 @@
+
 - title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+  url: https://twitter.com/msv_mahsa
+  icon: fab fa-twitter 
+
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/mahsamoosavi
   icon: fab fa-github
+
+- title: LinkedIn
+  url: https://scholar.google.com/citations?user=89f-DOwAAAAJ&hl=en
+  icon: fab fa-linkedin
+
+- title: Google Scholar
+  url: https://www.linkedin.com/in/mahsa-moosavi/
+  icon: fa fa-graduation-cap
+
+- title: YouTube
+  url: https://www.youtube.com/channel/UClIzKygJqFQCyzP9zQhZgwA?view_as=subscriber
+  icon: fab fa-youtube
+
