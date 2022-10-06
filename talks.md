@@ -5,6 +5,8 @@ title: Talks & Panel Discussions
 permalink: /talks/
 ---
 
+* Workshop on Trusted Smart Contracts (WTSC) in association with Financial Cryptography and Data Security 2022. "Lissy: Experimenting with On-chain Order Books." Virtual, May 6, 2022.<a href="http://fc22.ifca.ai/wtsc/program.html"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/efGa875z0fk">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
 * Ethereum Community Conference 4 (EthCC). "Fully On-Chain Order Books." Paris, France, July 20, 2021.<a href="https://ethcc.io/agenda"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/CfXKGEe2hqM">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * Blockchain Technology Symposium (BTS'21) . "Trading On-Chain: How Feasible Is Regulators’ Worst-case Scenario?" University of British Columbia. Vancouver, Canada, June 1, 2021.<a href="https://blockchain.ubc.ca/talk-abstract-mahsa-moosavi-and-jeremy-clark"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a>
