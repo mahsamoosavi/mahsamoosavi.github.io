@@ -5,6 +5,8 @@ title: Talks & Panel Discussions
 permalink: /talks/
 ---
 
+* Devcon VI. “Fast and Furious Withdrawals from Optimistic Rollups.” Bogotá, Colombia, October 12, 2022<a href="https://app.devcon.org/schedule/yznhcz"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/wI4Id0CUU6U">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
 * Workshop on Trusted Smart Contracts (WTSC) in association with Financial Cryptography and Data Security 2022. "Lissy: Experimenting with On-chain Order Books." Virtual, May 6, 2022.<a href="http://fc22.ifca.ai/wtsc/program.html"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/efGa875z0fk">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * Ethereum Community Conference 4 (EthCC). "Fully On-Chain Order Books." Paris, France, July 20, 2021.<a href="https://ethcc.io/agenda"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/CfXKGEe2hqM">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
