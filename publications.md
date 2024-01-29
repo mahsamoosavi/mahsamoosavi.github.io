@@ -7,8 +7,9 @@ permalink: /publications/
 ## Published
 
 * Fast and Furious Withdrawals from Optimistic Rollups <br> <font color="#5A30FF"> Mahsa Moosavi</font>, Mehdi Salehi, Daniel Goldman,  Jeremy Clark <br>
-_ACM Advances in Finanical Technology 2023_
+_Advances in Finanical Technology 2023_
 <a href="https://drops.dagstuhl.de/opus/volltexte/2023/19211/pdf/LIPIcs-AFT-2023-22.pdf"> <i class="fas fa-file-pdf" style="font-size:20px;color:5A30FF;"></i></a>
+<a href="https://youtu.be/f9XiR7UE10s?si=MFwHkgHl-tWvOA45">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * Lissy: Experimenting with On-chain Order Books <br> <font color="#5A30FF"> Mahsa Moosavi</font>, Jeremy Clark <br>
 WTSC 2022 _(@ Financial Cryptography 2022) (+ DeFi 2021)_
