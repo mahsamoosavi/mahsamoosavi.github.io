@@ -5,7 +5,10 @@ title: Talks & Panel Discussions
 permalink: /talks/
 ---
 
-* Devcon VI. “Fast and Furious Withdrawals from Optimistic Rollups.” Bogotá, Colombia, October 12, 2022<a href="https://app.devcon.org/schedule/yznhcz"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/wI4Id0CUU6U">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
+* ETHDenver 2024. "Unlocking the Potential: The Why and How of Running Your Own Rollup." Denver, USA, February 29, 2024<a href="https://youtu.be/fSw8DzfE1gI?si=w99swoQyDTzHlDHx">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
+* Devcon VI. “Fast and Furious Withdrawals from Optimistic Rollups.” Bogotá, Colombia, October 12, 2022.<a href="https://app.devcon.org/schedule/yznhcz"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/wI4Id0CUU6U">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * Workshop on Trusted Smart Contracts (WTSC) in association with Financial Cryptography and Data Security 2022. "Lissy: Experimenting with On-chain Order Books." Virtual, May 6, 2022.<a href="http://fc22.ifca.ai/wtsc/program.html"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/efGa875z0fk">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
