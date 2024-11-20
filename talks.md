@@ -6,7 +6,7 @@ permalink: /talks/
 ---
 
 
-* ETHDenver 2024. "Unlocking the Potential: The Why and How of Running Your Own Rollup." Denver, USA, February 29, 2024<a href="https://youtu.be/fSw8DzfE1gI?si=w99swoQyDTzHlDHx">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+* ETHDenver 2024. "Unlocking the Potential: The Why and How of Running Your Own Rollup." Denver, USA, February 29, 2024.<a href="https://youtu.be/fSw8DzfE1gI?si=w99swoQyDTzHlDHx">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * Devcon VI. “Fast and Furious Withdrawals from Optimistic Rollups.” Bogotá, Colombia, October 12, 2022.<a href="https://app.devcon.org/schedule/yznhcz"> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://youtu.be/wI4Id0CUU6U">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
