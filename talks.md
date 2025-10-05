@@ -5,6 +5,11 @@ title: Talks & Panel Discussions
 permalink: /talks/
 ---
 
+* Arbitrum Open House India. "Common smart contract security pitfalls." Virtual, Aug 27, 2025.<a href="https://www.youtube.com/live/btS8YtNTyxo?si=3UJ3CGaemvFnRaLe">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
+* ETHDenver 2025. "The Next Frontier in Blockchain Performance:Unlocking Rust for Smart Contracts." Denver, USA, March 2st, 2025.<a href="https://youtu.be/6-StzWciimk?si=StiaypDMaFOKbuMV">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
+
+* Ethereum Community Conference 7 (EthCC). "Exploring L2/L3 Orbit Chains - Why & How." Brussels, Belgium, July 10, 2024.<a href="https://ethcc.io/archives?subject=Rollups+%26+Scaling+Solutions&type=Talk&event=EthCC[7]&search="> <i class="fa fa-link" aria-hidden="true" style="font-size:20px;color:5A30FF;"></i></a> <a href="https://ethcc.io/archives/exploring-l2l3-orbit-chains-why-and-how">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
 * ETHDenver 2024. "Unlocking the Potential: The Why and How of Running Your Own Rollup." Denver, USA, February 29, 2024.<a href="https://youtu.be/fSw8DzfE1gI?si=w99swoQyDTzHlDHx">  <i class="fab fa-youtube" style="font-size:20px;color:5A30FF;"></i></a>
 
